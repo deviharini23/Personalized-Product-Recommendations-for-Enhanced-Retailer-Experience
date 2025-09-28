@@ -1,0 +1,48 @@
+/* Header.css */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #fff;
+  padding: 10px 20px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.navbar-left .logo {
+  font-size: 24px;
+  font-weight: 600;
+  color: #6a11cb;
+  text-decoration: none;
+}
+
+.navbar-center {
+  display: flex;
+  gap: 15px;
+}
+
+.navbar-center .nav-link {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+
+.navbar-right .btn-login,
+.navbar-right .btn-register,
+.navbar-right .btn-logout {
+  margin-left: 10px;
+  padding: 6px 12px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.btn-login, .btn-register {
+  background: linear-gradient(90deg, #6a11cb, #a4508b);
+  color: #fff;
+}
+
+.btn-logout {
+  background: #e74c3c;
+  color: #fff;
+}
