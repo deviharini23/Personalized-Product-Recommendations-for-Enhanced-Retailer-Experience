@@ -32,4 +32,4 @@ ppt:
 [CodeCrafters (1).pptx](https://github.com/user-attachments/files/22583786/CodeCrafters.1.pptx)
 
 ml based reccommdation work using dataset:
-[CodeCrafters (1).pptx](https://github.com/user-attachments/files/22583786/CodeCrafters.1.pptx)
+https://github.com/user-attachments/assets/a4545ff1-3e9f-411b-af39-29f70bb68036
