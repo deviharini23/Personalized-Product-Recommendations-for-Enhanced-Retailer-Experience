@@ -27,5 +27,9 @@ Contribution Details of Each Team Member
 * Member 3: Prototype development, integration of features, and frontend application workflows in React.
 * Member 4:Testing, validation, preparation of PPT presentation, and documentation of project features.
 * Member 5:UI/UX design and frontend development of dashboards and features using React.
+* 
 ppt:
+[CodeCrafters (1).pptx](https://github.com/user-attachments/files/22583786/CodeCrafters.1.pptx)
+
+ml based reccommdation work using dataset:
 [CodeCrafters (1).pptx](https://github.com/user-attachments/files/22583786/CodeCrafters.1.pptx)
